@@ -1,2 +1,2 @@
-# home_page
-Personal home page
+# 申請簡章
+Personal page
